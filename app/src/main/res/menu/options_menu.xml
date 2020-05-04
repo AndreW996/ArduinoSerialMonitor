@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/selected_baud"
+        android:title="@string/select_baud">
+
+        <menu>
+            <item
+                android:id="@+id/baud1"
+                android:title="@string/baud_9600" />
+            <item
+                android:id="@+id/baud2"
+                android:title="@string/baud_57600" />
+            <item
+                android:id="@+id/baud3"
+                android:title="@string/baud_115200" />
+            <item
+                android:id="@+id/baud4"
+                android:title="@string/baud_230400" />
+            <item
+                android:id="@+id/baud5"
+                android:title="@string/baud_250000" />
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/graph_type"
+        android:title="@string/graph_type">
+
+        <menu>
+            <item
+                android:id="@+id/pointed"
+                android:title="@string/pointed" />
+            <item
+                android:id="@+id/line"
+                android:title="@string/line" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/info"
+        android:title="@string/info" />
+
+</menu>
