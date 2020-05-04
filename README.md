@@ -1,6 +1,6 @@
 # ArduinoSerialMonitor
 
-![Launcher icon](https://github.com/AndreW996/ArduinoSerialMonitor/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
+<img width="100" alt="Screenshot" src="https://github.com/AndreW996/ArduinoSerialMonitor/blob/master/ArduinoSerialMonitor/app/src/main/ic_launcher-web.png">
 
 This application is designed for monitoring Arduino signals.
 
